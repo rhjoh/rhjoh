@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Rhys. Amateur developer and aspiring unix wizard.
 
 <!--
 **rhjoh/rhjoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
